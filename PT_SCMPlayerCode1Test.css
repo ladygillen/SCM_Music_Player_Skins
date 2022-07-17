@@ -1,0 +1,30 @@
+#player,#player a{ color:#ffffff;  font-size: <!-- SKIN POR TOBESOPERFECT NO COPY BITCH -->px; font-family: verdana}
+#player{ background:url(http://static.tumblr.com/y3igvfg/oKRm25qt3/1.png); background-position:bottom; background-color: #000000 ;}
+#player .mainImage{ background:url(http://static.tumblr.com/y3igvfg/2Zmm25qmm/2.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(http://static.tumblr.com/y3igvfg/XaGm25qmz/3.png); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  font-size: 9px; }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#228B22;  }
+#player #seekerBuffered{ background-color:#FF0000; }
+#player #seekerSliderBase{ background-color:#FFFF00; }
+
+#player #volume{ width:100px; right:39px; }
+#player #volumeSlider{ width:20px; background:url(http://static.tumblr.com/y3igvfg/NEqm25qm7/1.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#fff;}
+#playlist .module{  color:#333; background-color:#fff; }
+#playlist h3{ background:url(); color:#228B22; background-color:#fff;  }
+#playlist .even{background-color:#fff;}
+#playlist .odd{ background-color:#fff;}
+#playlist .focus{ background-color:#fff; color:#228B22;}
